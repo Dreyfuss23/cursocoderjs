@@ -1,4 +1,4 @@
-//let precio = (prompt("ingrese su valor"));
-//let precioConIva = precio *1.65;
+var precio = (prompt("ingrese su valor"));
+var precioConIva = precio *1.65;
 
-//alert (precioConIva)
+alert (precioConIva);
